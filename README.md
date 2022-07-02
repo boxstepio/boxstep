@@ -1,2 +1,2 @@
 # boxstep
-Container-Centric Orchestration 
+distributed business logic for enterprise devops 
